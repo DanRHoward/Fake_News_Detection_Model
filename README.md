@@ -9,3 +9,7 @@ The files within this repository include:
 - *Fake News Data Dashboard*: This file contains the Power BI dashboard, along with the relevent data, that attempts to visiualise the initial dataset used during this project. This bashboard, when loaded correctly, should look similar to the following:
 
 ![Screenshot (59)](https://user-images.githubusercontent.com/116043233/212573897-76c38d55-f65a-4e5d-8abe-ef173e365295.png)
+
+- *GradientBoostingClassifier*: This folder contains various information regarding the Gradient Boosting model used during this project, including the model itself, the parameters the model used in a JSON file, the perfromance metrics of the model on the validation set and the confusion matrix produced in a .png file.
+
+- **:
