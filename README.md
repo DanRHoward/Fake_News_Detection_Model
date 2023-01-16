@@ -12,4 +12,6 @@ The files within this repository include:
 
 - *GradientBoostingClassifier*: This folder contains various information regarding the Gradient Boosting model used during this project, including the model itself, the parameters the model used in a JSON file, the perfromance metrics of the model on the validation set and the confusion matrix produced in a .png file.
 
-- **:
+- *Model Metrics Dashboard*: This fiel contains the Power BI dashboard, along with the relevent data, that illustrates the difference in performance of the best performing models of each type.  The a screenshot of the dashboard is shown below.
+
+![Screenshot (61)](https://user-images.githubusercontent.com/116043233/212742618-cf6731f7-a6b0-4539-9739-0bac52d2453f.png)
